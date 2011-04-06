@@ -2,8 +2,8 @@
 " for phpDoc.
 "
 " Language:    php PHP 3/4/5
-" Maintainer:  Andrei Todhunter <andre@todhunter.us>
-" Last Change: 2009-02-19
+" Maintainer:  Andrei Nicholson <andre@neo-anime.org>
+" Last Change: 2011-04-06
 
 syntax sync fromstart
 
